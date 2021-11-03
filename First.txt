@@ -1,3 +1,4 @@
 abc def 
 This is a wonderful day as we are learning git
 Added yet another line
+Wow Git is so very powerful!
